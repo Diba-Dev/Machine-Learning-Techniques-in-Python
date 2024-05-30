@@ -1,6 +1,7 @@
 # Machine-Learning-Techniques-in-Python
-Machine Learning Techniques in Python (Udemy)
-    Are you ready to learn on a journey into the captivating world of machine learning using Python? Welcome to "Machine Learning - Fundamentals of Python Machine Learning," your gateway to understanding and applying the core principles of machine learning.
+Machine Learning Techniques in Python (Udemy)<br>
+
+<p>Are you ready to learn on a journey into the captivating world of machine learning using Python? Welcome to "Machine Learning - Fundamentals of Python Machine Learning," your gateway to understanding and applying the core principles of machine learning.
 
 
     Machine learning is transforming industries, from healthcare to finance, and Python is at the forefront of this revolution. Whether you're a budding data scientist, aspiring machine learning engineer, or simply curious about the potential of AI, this course will equip you with the foundational knowledge and practical skills to harness the power of Python for machine learning.
@@ -62,3 +63,4 @@ Machine Learning Techniques in Python (Udemy)
 
         Anyone interested in Machine Learning
         Beginners Who want to Learn Machine Learning
+</p>
